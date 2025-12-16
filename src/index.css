@@ -1,0 +1,23 @@
+@import "tailwindcss";
+* {
+  font-family: MinecraftFont, sans-serif;
+}
+ @font-face {
+  font-family: 'MinecraftFont'; /* Choose a name for your font */
+  src: url('/KrazyMinecraft2025/fonts/MinecraftRegular-Bmg3.otf') format('truetype'); /* Adjust path and format as needed */
+  /* You can add more src declarations for different formats (e.g., .woff, .woff2) for better browser compatibility */
+}
+.category_scrollbar::-webkit-scrollbar {
+  display: none;
+}
+body {
+  min-height: 100vh;
+  background-image: url("./assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.category_scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
