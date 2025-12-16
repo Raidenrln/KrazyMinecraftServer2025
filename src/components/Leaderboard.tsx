@@ -38,7 +38,7 @@ const Leaderboard = () => {
 
       for (const player of data) {
         try {
-          const res = await fetch(`/KrazyMinecraft2025/stats/${player.uuid}.json`);
+          const res = await fetch(`/KrazyMinecraftServer2025/stats/${player.uuid}.json`);
           if (!res.ok) throw new Error("Stats file not found");
           const json = await res.json();
 

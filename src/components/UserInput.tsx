@@ -46,7 +46,7 @@ const UserInput = () => {
   };
 
   return (
-    <div className="w-full flex flex-col p-4 max-w-[700px]">
+    <div className="w-full flex flex-col p-4 max-w-175">
       {/* search Bar */}
       <div className="w-full flex flex-col sm:flex-row gap-2 mb-4 text-white">
         <input
@@ -96,7 +96,7 @@ const UserInput = () => {
                 onClick={handle2025Summary}
               >
                 <img
-                  src="/KrazyMinecraft2025/assets/background_btn.png"
+                  src="/KrazyMinecraftServer2025/assets/background_btn.png"
                   alt="2025 Summary"
                   className="w-full h-12 block"
                 />
@@ -110,7 +110,7 @@ const UserInput = () => {
                 onClick={handleSeeAllStats}
               >
                 <img
-                  src="/KrazyMinecraft2025/assets/background_btn.png"
+                  src="/KrazyMinecraftServer2025/assets/background_btn.png"
                   alt="See All Stats"
                   className="w-full h-12 block"
                 />

@@ -48,7 +48,7 @@ const SeeAllStats = () => {
   useEffect(() => {
     if (!player) return;
 
-    fetch(`/KrazyMinecraft2025/stats/${player.uuid}.json`)
+    fetch(`/KrazyMinecraftServer2025/stats/${player.uuid}.json`)
       .then((res) => res.json())
       .then((data: any) => setStats(data))
       .catch((err) => {
