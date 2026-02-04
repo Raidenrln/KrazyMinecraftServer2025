@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "stats": {
     "minecraft:custom": {
@@ -74,6 +73,3 @@
   },
   "DataVersion": 4671
 }
-=======
-{"stats":{"minecraft:mined":{"minecraft:short_grass":2},"minecraft:custom":{"minecraft:jump":1,"minecraft:time_since_rest":902,"minecraft:leave_game":1,"minecraft:play_time":902,"minecraft:time_since_death":902,"minecraft:sneak_time":9,"minecraft:total_world_time":902}},"DataVersion":4189}
->>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
