@@ -43,7 +43,11 @@ const ServerStatsOverview = () => {
 
       for (const player of data) {
         try {
+<<<<<<< HEAD
           const res = await fetch(`/KrazyMinecraft2025/stats/${player.uuid}.json`);
+=======
+          const res = await fetch(`/KrazyMinecraftServer2025/stats/${player.uuid}.json`);
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
           if (!res.ok) continue;
 
           const json = await res.json();

@@ -3,21 +3,36 @@
   font-family: MinecraftFont, sans-serif;
 }
  @font-face {
+<<<<<<< HEAD
   font-family: 'MinecraftFont'; /* Choose a name for your font */
   src: url('/KrazyMinecraft2025/fonts/MinecraftRegular-Bmg3.otf') format('truetype'); /* Adjust path and format as needed */
   /* You can add more src declarations for different formats (e.g., .woff, .woff2) for better browser compatibility */
+=======
+  font-family: 'MinecraftFont';
+  src: url('/KrazyMinecraftServer2025/fonts/MinecraftRegular-Bmg3.otf') format('truetype');
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
 }
 .category_scrollbar::-webkit-scrollbar {
   display: none;
 }
 body {
   min-height: 100vh;
+<<<<<<< HEAD
   background-image: url("./assets/background.png");
+=======
+  background-image: url("/assets/background.png");
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .category_scrollbar {
+<<<<<<< HEAD
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+=======
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15

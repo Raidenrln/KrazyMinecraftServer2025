@@ -46,7 +46,11 @@ const UserInput = () => {
   };
 
   return (
+<<<<<<< HEAD
     <div className="w-full flex flex-col p-4 max-w-[700px]">
+=======
+    <div className="w-full flex flex-col p-4 max-w-175">
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
       {/* search Bar */}
       <div className="w-full flex flex-col sm:flex-row gap-2 mb-4 text-white">
         <input
@@ -96,7 +100,11 @@ const UserInput = () => {
                 onClick={handle2025Summary}
               >
                 <img
+<<<<<<< HEAD
                   src="/KrazyMinecraft2025/assets/background_btn.png"
+=======
+                  src="/KrazyMinecraftServer2025/assets/background_btn.png"
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
                   alt="2025 Summary"
                   className="w-full h-12 block"
                 />
@@ -110,7 +118,11 @@ const UserInput = () => {
                 onClick={handleSeeAllStats}
               >
                 <img
+<<<<<<< HEAD
                   src="/KrazyMinecraft2025/assets/background_btn.png"
+=======
+                  src="/KrazyMinecraftServer2025/assets/background_btn.png"
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
                   alt="See All Stats"
                   className="w-full h-12 block"
                 />

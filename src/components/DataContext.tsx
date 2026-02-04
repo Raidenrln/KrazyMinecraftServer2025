@@ -23,7 +23,11 @@ export const DataProvider = ({ children }: { children: ReactNode }) => {
   const [selectedPlayer, setSelectedPlayer] = useState<Player | null>(null);
 
   useEffect(() => {
+<<<<<<< HEAD
     fetch("/KrazyMinecraft2025/usercache.json")
+=======
+    fetch("/KrazyMinecraftServer2025/usercache.json")
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
       .then((res) => res.json())
       .then((players: Player[]) => setData(players))
       .catch((err) => console.error("Failed to load usercache.json:", err));

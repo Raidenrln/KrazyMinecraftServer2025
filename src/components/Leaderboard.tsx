@@ -38,7 +38,11 @@ const Leaderboard = () => {
 
       for (const player of data) {
         try {
+<<<<<<< HEAD
           const res = await fetch(`/KrazyMinecraft2025/stats/${player.uuid}.json`);
+=======
+          const res = await fetch(`/KrazyMinecraftServer2025/stats/${player.uuid}.json`);
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
           if (!res.ok) throw new Error("Stats file not found");
           const json = await res.json();
 
@@ -143,7 +147,11 @@ const Leaderboard = () => {
 
   return (
     <div className="w-full flex flex-col py-4 items-center">
+<<<<<<< HEAD
       <div className="w-full max-w-4xl mb-4 flex flex-col sm:flex-row justify-between items-center gap-2">
+=======
+      <div className="w-full max-w-4xl mb-4 flex flex-row justify-between items-center gap-2">
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
         <h2 className="text-lg font-semibold text-white">Leaderboard</h2>
         <select
           value={activeTab}

@@ -35,7 +35,11 @@ const Summary = () => {
 
     setHeadLoaded(false);
 
+<<<<<<< HEAD
     fetch(`/KrazyMinecraft2025/stats/${player.uuid}.json`)
+=======
+    fetch(`/KrazyMinecraftServer2025/stats/${player.uuid}.json`)
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
       .then((res) => res.json())
       .then((data) => setStats(data))
       .catch((err) => {
@@ -113,13 +117,21 @@ const Summary = () => {
       <div className="mt-5">
         <div
           ref={summaryRef}
+<<<<<<< HEAD
           className="w-[660px] h-[260px] p-4 rounded-xl flex relative overflow-hidden text-white shadow-2xl backdrop-blur-lg justify-center items-center
+=======
+          className="w-165 h-65 p-4 rounded-xl flex relative overflow-hidden text-white shadow-2xl backdrop-blur-lg justify-center items-center
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
           "
         >
           {/* Background Image */}
           <div
             className="absolute inset-0 bg-cover bg-center opacity-40 -z-10"
+<<<<<<< HEAD
             style={{ backgroundImage: "url('/KrazyMinecraft2025/assets/minecraft-bg.png')" }}
+=======
+            style={{ backgroundImage: "url('/KrazyMinecraftServer2025/assets/minecraft-bg.png')" }}
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
           />
 
           {/* Player Head */}

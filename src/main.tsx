@@ -8,5 +8,9 @@ createRoot(document.getElementById('root')!).render(
     <DataProvider>
       <App />
     </DataProvider>
+<<<<<<< HEAD
   </StrictMode>,
+=======
+  </StrictMode>,  
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
 )

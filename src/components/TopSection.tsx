@@ -21,8 +21,13 @@ const TopSection = ({ setActivePage }: TopSectionProps) => {
         <img
           src={
             menuOpen
+<<<<<<< HEAD
               ? '/KrazyMinecraft2025/assets/close.png'
               : '/KrazyMinecraft2025/assets/menu.png'
+=======
+              ? '/KrazyMinecraftServer2025/assets/close.png'
+              : '/KrazyMinecraftServer2025/assets/menu.png'
+>>>>>>> bf1c3f529fe991c4fa0ff275ccf572127882cf15
           }
           alt="Menu Icon"
           className="w-8 h-8"
