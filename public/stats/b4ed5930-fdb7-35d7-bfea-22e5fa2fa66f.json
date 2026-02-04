@@ -1,0 +1,57 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:oak_wood": 14,
+      "minecraft:jungle_boat": 2,
+      "minecraft:shulker_box": 1
+    },
+    "minecraft:killed": {
+      "minecraft:villager": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_planks": 1,
+      "minecraft:carrot": 64,
+      "minecraft:gray_carpet": 1,
+      "minecraft:polished_blackstone_bricks": 6,
+      "minecraft:redstone": 4,
+      "minecraft:bone": 6,
+      "minecraft:iron_ingot": 50,
+      "minecraft:jungle_boat": 3,
+      "minecraft:rotten_flesh": 5,
+      "minecraft:shulker_box": 1,
+      "minecraft:lead": 4,
+      "minecraft:mangrove_planks": 6,
+      "minecraft:coal": 2,
+      "minecraft:pale_oak_planks": 1,
+      "minecraft:lapis_lazuli": 49,
+      "minecraft:comparator": 6
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 248233,
+      "minecraft:walk_one_cm": 25839,
+      "minecraft:leave_game": 18,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 1959,
+      "minecraft:damage_taken": 460,
+      "minecraft:damage_dealt": 277,
+      "minecraft:boat_one_cm": 107068,
+      "minecraft:play_time": 280768,
+      "minecraft:open_shulker_box": 6,
+      "minecraft:jump": 240,
+      "minecraft:time_since_death": 248101,
+      "minecraft:sprint_one_cm": 37772,
+      "minecraft:open_chest": 7,
+      "minecraft:fall_one_cm": 7107,
+      "minecraft:total_world_time": 280768,
+      "minecraft:fly_one_cm": 676071,
+      "minecraft:walk_on_water_one_cm": 4916,
+      "minecraft:crouch_one_cm": 609,
+      "minecraft:sneak_time": 3010,
+      "minecraft:deaths": 1
+    },
+    "minecraft:mined": {
+      "minecraft:tall_grass": 2
+    }
+  },
+  "DataVersion": 4671
+}

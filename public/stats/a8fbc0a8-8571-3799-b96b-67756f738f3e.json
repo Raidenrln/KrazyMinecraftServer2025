@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 7,
+      "minecraft:spruce_sign": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3717,
+      "minecraft:walk_one_cm": 6244,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 3717,
+      "minecraft:jump": 136,
+      "minecraft:time_since_death": 3717,
+      "minecraft:drop": 3,
+      "minecraft:sprint_one_cm": 13819,
+      "minecraft:open_chest": 3,
+      "minecraft:fall_one_cm": 5570,
+      "minecraft:total_world_time": 3717,
+      "minecraft:fly_one_cm": 44468,
+      "minecraft:climb_one_cm": 96
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:torch": 1,
+      "minecraft:spruce_sign": 1,
+      "minecraft:wheat": 25
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_sign": 1,
+      "minecraft:wheat_seeds": 8
+    }
+  },
+  "DataVersion": 4671
+}

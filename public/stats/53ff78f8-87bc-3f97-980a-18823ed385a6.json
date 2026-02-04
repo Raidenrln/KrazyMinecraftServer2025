@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:golden_apple": 37,
+      "minecraft:elytra": 51,
+      "minecraft:wind_charge": 45,
+      "minecraft:splash_potion": 41,
+      "minecraft:netherite_chestplate": 49,
+      "minecraft:netherite_sword": 68,
+      "minecraft:totem_of_undying": 7,
+      "minecraft:diamond_sword": 34,
+      "minecraft:ender_pearl": 108,
+      "minecraft:mace": 31,
+      "minecraft:bow": 8
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 600,
+      "minecraft:walk_one_cm": 77227,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 7844,
+      "minecraft:damage_dealt": 4240,
+      "minecraft:play_time": 31948,
+      "minecraft:damage_absorbed": 1669,
+      "minecraft:jump": 744,
+      "minecraft:time_since_death": 573,
+      "minecraft:damage_dealt_absorbed": 782,
+      "minecraft:aviate_one_cm": 94407,
+      "minecraft:drop": 1,
+      "minecraft:open_enderchest": 2,
+      "minecraft:sprint_one_cm": 59517,
+      "minecraft:fall_one_cm": 104037,
+      "minecraft:total_world_time": 31948,
+      "minecraft:fly_one_cm": 85583,
+      "minecraft:crouch_one_cm": 116,
+      "minecraft:sneak_time": 298,
+      "minecraft:deaths": 9,
+      "minecraft:player_kills": 6
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 8
+    },
+    "minecraft:dropped": {
+      "minecraft:totem_of_undying": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:totem_of_undying": 1
+    }
+  },
+  "DataVersion": 4671
+}

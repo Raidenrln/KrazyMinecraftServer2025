@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:diamond": 20
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 11446,
+      "minecraft:walk_one_cm": 13496,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 1312,
+      "minecraft:play_time": 11446,
+      "minecraft:jump": 100,
+      "minecraft:time_since_death": 11446,
+      "minecraft:open_barrel": 1,
+      "minecraft:sprint_one_cm": 43490,
+      "minecraft:fall_one_cm": 1984,
+      "minecraft:swim_one_cm": 5401,
+      "minecraft:total_world_time": 11446,
+      "minecraft:fly_one_cm": 23834,
+      "minecraft:walk_on_water_one_cm": 4459,
+      "minecraft:crouch_one_cm": 6,
+      "minecraft:sneak_time": 204,
+      "minecraft:climb_one_cm": 528
+    }
+  },
+  "DataVersion": 4671
+}

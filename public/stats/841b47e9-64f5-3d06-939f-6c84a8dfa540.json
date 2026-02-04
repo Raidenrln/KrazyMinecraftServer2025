@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:chest": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:diorite": 42,
+      "minecraft:pale_oak_log": 4,
+      "minecraft:cobblestone": 18,
+      "minecraft:stone": 3,
+      "minecraft:raw_copper": 58,
+      "minecraft:pale_oak_stairs": 89,
+      "minecraft:ender_pearl": 208,
+      "minecraft:string": 2,
+      "minecraft:pale_oak_planks": 3,
+      "minecraft:stone_bricks": 64,
+      "minecraft:sand": 32,
+      "minecraft:granite": 50,
+      "minecraft:chest": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 34852,
+      "minecraft:walk_one_cm": 23671,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 1645,
+      "minecraft:damage_taken": 30,
+      "minecraft:play_time": 34852,
+      "minecraft:jump": 118,
+      "minecraft:time_since_death": 34852,
+      "minecraft:sprint_one_cm": 17262,
+      "minecraft:open_chest": 13,
+      "minecraft:fall_one_cm": 2776,
+      "minecraft:swim_one_cm": 4067,
+      "minecraft:total_world_time": 34852,
+      "minecraft:fly_one_cm": 17489,
+      "minecraft:walk_on_water_one_cm": 2316,
+      "minecraft:crouch_one_cm": 431,
+      "minecraft:sneak_time": 89
+    },
+    "minecraft:mined": {
+      "minecraft:chest": 1,
+      "minecraft:jungle_leaves": 2
+    }
+  },
+  "DataVersion": 4671
+}

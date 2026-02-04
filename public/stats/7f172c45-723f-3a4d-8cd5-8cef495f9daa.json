@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:glow_berries": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1546,
+      "minecraft:time_since_rest": 630,
+      "minecraft:walk_one_cm": 96,
+      "minecraft:total_world_time": 630,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 3791,
+      "minecraft:play_time": 630,
+      "minecraft:jump": 91,
+      "minecraft:time_since_death": 630
+    }
+  },
+  "DataVersion": 4671
+}

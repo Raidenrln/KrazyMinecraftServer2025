@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:golden_apple": 51,
+      "minecraft:elytra": 47,
+      "minecraft:wind_charge": 19,
+      "minecraft:splash_potion": 26,
+      "minecraft:netherite_chestplate": 46,
+      "minecraft:netherite_sword": 252,
+      "minecraft:totem_of_undying": 3,
+      "minecraft:diamond_sword": 48,
+      "minecraft:ender_pearl": 95,
+      "minecraft:mace": 24
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 13101,
+      "minecraft:walk_one_cm": 74634,
+      "minecraft:leave_game": 4,
+      "minecraft:walk_under_water_one_cm": 2019,
+      "minecraft:damage_taken": 6288,
+      "minecraft:damage_dealt": 6067,
+      "minecraft:play_time": 26470,
+      "minecraft:damage_absorbed": 1613,
+      "minecraft:jump": 664,
+      "minecraft:time_since_death": 13078,
+      "minecraft:damage_dealt_absorbed": 1634,
+      "minecraft:aviate_one_cm": 179338,
+      "minecraft:sprint_one_cm": 66265,
+      "minecraft:fall_one_cm": 45582,
+      "minecraft:swim_one_cm": 2848,
+      "minecraft:total_world_time": 26470,
+      "minecraft:fly_one_cm": 284016,
+      "minecraft:walk_on_water_one_cm": 201725,
+      "minecraft:crouch_one_cm": 13,
+      "minecraft:sneak_time": 436,
+      "minecraft:climb_one_cm": 205,
+      "minecraft:deaths": 3,
+      "minecraft:player_kills": 7
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 2
+    }
+  },
+  "DataVersion": 4671
+}

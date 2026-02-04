@@ -1,0 +1,91 @@
+{
+  "stats": {
+    "minecraft:broken": {
+      "minecraft:wooden_pickaxe": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 13,
+      "minecraft:stick": 11,
+      "minecraft:cobblestone": 41,
+      "minecraft:oak_boat": 3,
+      "minecraft:gold_block": 4,
+      "minecraft:leather": 11,
+      "minecraft:crafting_table": 3,
+      "minecraft:raw_copper": 5,
+      "minecraft:oak_sapling": 20,
+      "minecraft:beef": 31,
+      "minecraft:raw_iron": 9,
+      "minecraft:apple": 3,
+      "minecraft:coal": 30,
+      "minecraft:oak_log": 34,
+      "minecraft:copper_ingot": 5,
+      "minecraft:furnace": 2
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 4,
+      "minecraft:oak_leaves": 356,
+      "minecraft:furnace": 2,
+      "minecraft:dirt": 9,
+      "minecraft:crafting_table": 3,
+      "minecraft:oak_log": 34,
+      "minecraft:coal_ore": 30,
+      "minecraft:grass_block": 4,
+      "minecraft:copper_ore": 1,
+      "minecraft:iron_ore": 9,
+      "minecraft:stone": 41,
+      "minecraft:gold_block": 4
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 64,
+      "minecraft:walk_one_cm": 104979,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 2392,
+      "minecraft:mob_kills": 13,
+      "minecraft:damage_taken": 320,
+      "minecraft:boat_one_cm": 489130,
+      "minecraft:play_time": 54498,
+      "minecraft:damage_dealt": 1270,
+      "minecraft:jump": 453,
+      "minecraft:time_since_death": 59,
+      "minecraft:interact_with_furnace": 14,
+      "minecraft:sprint_one_cm": 158772,
+      "minecraft:open_chest": 3,
+      "minecraft:total_world_time": 54498,
+      "minecraft:swim_one_cm": 17888,
+      "minecraft:fly_one_cm": 26731,
+      "minecraft:walk_on_water_one_cm": 7396,
+      "minecraft:crouch_one_cm": 5119,
+      "minecraft:sneak_time": 10610,
+      "minecraft:climb_one_cm": 1199,
+      "minecraft:deaths": 1
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 13
+    },
+    "minecraft:used": {
+      "minecraft:cooked_beef": 4,
+      "minecraft:crafting_table": 3,
+      "minecraft:wooden_pickaxe": 59,
+      "minecraft:iron_pickaxe": 4,
+      "minecraft:furnace": 2,
+      "minecraft:stone_pickaxe": 24,
+      "minecraft:dirt": 13,
+      "minecraft:oak_boat": 4,
+      "minecraft:cobblestone": 13
+    },
+    "minecraft:crafted": {
+      "minecraft:furnace": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:oak_boat": 1,
+      "minecraft:cooked_beef": 8,
+      "minecraft:iron_ingot": 9,
+      "minecraft:oak_planks": 12,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:air": 0,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4671
+}

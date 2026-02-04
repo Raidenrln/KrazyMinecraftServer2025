@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 62
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_pickaxe": 19,
+      "minecraft:egg": 1,
+      "minecraft:bread": 1,
+      "minecraft:cobblestone": 1,
+      "minecraft:wheat_seeds": 69
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 16,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:bread": 14,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 7613,
+      "minecraft:walk_one_cm": 20948,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 112,
+      "minecraft:damage_dealt": 10,
+      "minecraft:play_time": 7613,
+      "minecraft:jump": 127,
+      "minecraft:time_since_death": 7613,
+      "minecraft:drop": 2,
+      "minecraft:open_barrel": 2,
+      "minecraft:sprint_one_cm": 15094,
+      "minecraft:open_chest": 6,
+      "minecraft:fall_one_cm": 1788,
+      "minecraft:swim_one_cm": 5843,
+      "minecraft:total_world_time": 7613,
+      "minecraft:fly_one_cm": 28318,
+      "minecraft:walk_on_water_one_cm": 816,
+      "minecraft:crouch_one_cm": 2739,
+      "minecraft:sneak_time": 819,
+      "minecraft:climb_one_cm": 458
+    },
+    "minecraft:mined": {
+      "minecraft:crafting_table": 1,
+      "minecraft:vine": 1,
+      "minecraft:oak_log": 4,
+      "minecraft:wheat": 62,
+      "minecraft:stone": 19
+    },
+    "minecraft:picked_up": {
+      "minecraft:oak_log": 4,
+      "minecraft:cobblestone": 19,
+      "minecraft:wheat_seeds": 131,
+      "minecraft:wheat": 43,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4671
+}

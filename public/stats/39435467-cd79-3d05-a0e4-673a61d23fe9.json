@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:iron_chestplate": 1,
+      "minecraft:ender_pearl": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:bone": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 4820,
+      "minecraft:walk_one_cm": 18158,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 202,
+      "minecraft:play_time": 10710,
+      "minecraft:damage_dealt": 3,
+      "minecraft:jump": 87,
+      "minecraft:time_since_death": 4761,
+      "minecraft:sprint_one_cm": 58835,
+      "minecraft:open_chest": 10,
+      "minecraft:fall_one_cm": 675,
+      "minecraft:total_world_time": 10710,
+      "minecraft:fly_one_cm": 21418,
+      "minecraft:climb_one_cm": 616,
+      "minecraft:deaths": 1
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 62
+    },
+    "minecraft:used": {
+      "minecraft:bread": 2,
+      "minecraft:ender_pearl": 3,
+      "minecraft:wheat_seeds": 61
+    },
+    "minecraft:crafted": {
+      "minecraft:bread": 10
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 4823,
+      "minecraft:walk_one_cm": 22117,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 69,
+      "minecraft:damage_taken": 160,
+      "minecraft:play_time": 4823,
+      "minecraft:jump": 83,
+      "minecraft:time_since_death": 4823,
+      "minecraft:drop": 1,
+      "minecraft:bell_ring": 1,
+      "minecraft:open_barrel": 32,
+      "minecraft:sprint_one_cm": 7714,
+      "minecraft:open_chest": 3,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:swim_one_cm": 320,
+      "minecraft:total_world_time": 4823,
+      "minecraft:fly_one_cm": 15059,
+      "minecraft:walk_on_water_one_cm": 1540,
+      "minecraft:crouch_one_cm": 48,
+      "minecraft:sneak_time": 110,
+      "minecraft:climb_one_cm": 857
+    },
+    "minecraft:mined": {
+      "minecraft:wheat": 58
+    },
+    "minecraft:picked_up": {
+      "minecraft:wheat_seeds": 181,
+      "minecraft:wheat": 31
+    }
+  },
+  "DataVersion": 4671
+}
